@@ -30,7 +30,7 @@ LINKS:
 [exit code] https://www.nitendratech.com/linux/exit-codes-linux/
 [Kernel and user space](https://unix.stackexchange.com/questions/87625/what-is-difference-between-user-space-and-kernel-space)
 [buffer cache](https://www.glassdoor.co.in/Interview/Cache-vs-buffer-QTN_3090711.htm)
-
+[clear cache](https://www.tecmint.com/clear-ram-memory-cache-buffer-and-swap-space-on-linux/)
 
 ======
 fuser  -  https://www.tecmint.com/learn-how-to-use-fuser-command-with-examples-in-linux/
