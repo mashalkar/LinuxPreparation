@@ -13,4 +13,10 @@ standard streams, redirections, regexs, scripting, config files, cron, anacron,
 
 3) Process:
 nice, renice, fuser, zombie, orphan, IPC's, process states, Exit status, kernel and user space, cache, buffer, Avg load,
-strace, top, process monitoring, system calls,
+strace, top, process monitoring, system calls, namespaces, cgroups
+
+LINKS:
+[Process priority - nice - renice](https://askubuntu.com/questions/656771/process-niceness-vs-priority#:~:text=The%20nice%20priority%20is%20actually%20used%20for%20user,a%20negative%20PR%20level%20%28from%20-100%20to%20-1%29.)
+
+
+
