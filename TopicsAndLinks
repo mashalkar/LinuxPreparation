@@ -11,13 +11,25 @@ Updating Kernel, Kernel panics Package management, repositories.
 Types of sheels, env_varibales, global variables, export command, profiles and bashrc files,
 standard streams, redirections, regexs, scripting, config files, cron, anacron,
 
+
+===========
 3) Process:
-nice, renice, fuser, zombie, orphan, IPC's, process states, Exit status, kernel and user space, cache, buffer, Avg load,
+===========
+nice, renice, zombie, orphan, IPC's, process states, Exit status, kernel and user space, cache, buffer, Avg load,
 strace, top, process monitoring, system calls, namespaces, cgroups
-
+-----
 LINKS:
-[Process priority - nice - renice](https://askubuntu.com/questions/656771/process-niceness-vs-priority#:~:text=The%20nice%20priority%20is%20actually%20used%20for%20user,a%20negative%20PR%20level%20%28from%20-100%20to%20-1%29.)
+[Process priority - nice - renice](https://askubuntu.com/questions/656771/process-niceness-vs-priority)
+[Zombie, Orphan process](https://stackoverflow.com/questions/20688982/zombie-process-vs-orphan-process)
+[IPC basic](https://opensource.com/article/19/4/interprocess-communication-linux-storage) 
+           (https://opensource.com/article/19/4/interprocess-communication-linux-networking)
+[sockets](https://beej.us/guide/bgnet/html/#what-is-a-socket)
+[Best read for IPC](https://beej.us/guide/bgipc/html/single/bgipc.html)
+[Process, states, signals](https://www.bogotobogo.com/Linux/linux_process_and_signals.php)
+[Process signals](https://www.tutorialspoint.com/unix/unix-signals-traps.htm)
 
 
 
-[I'm an inline-style link](https://www.google.com)
+
+======
+fuser  -  https://www.tecmint.com/learn-how-to-use-fuser-command-with-examples-in-linux/
