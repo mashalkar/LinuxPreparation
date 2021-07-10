@@ -14,8 +14,8 @@ standard streams, redirections, regexs, scripting, config files, cron, anacron,
 
 # 3) Process:
 
-### nice, renice, zombie, orphan, IPC's, system calls, process states, Exit code, kernel and user space, cache, buffer, Avg load, steal time,
-top, namespaces, cgroups
+### -nice, -renice, zombie, orphan, IPC's, system calls, process states, Exit code, kernel and user space, cache, buffer, Avg load, steal time,
+-top, -namespaces, cgroups
 -----
 LINKS:
 [Process priority - nice - renice](https://askubuntu.com/questions/656771/process-niceness-vs-priority)
