@@ -38,17 +38,20 @@ LINKS:\
 ----------------------------------------------------------------------------------------------------------------
 
 # 4) Files, filesystem, storage and permissions:
-## File permissions rwx 421, attributes-chattr/lsattr, umask ,special permissions,sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid, benchmarking tools, encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi,
+
+### File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid, benchmarking tools, encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi,
 backups and restorations swap
 ------
-LINKS:
+LINKS:\
 [File permissions](https://www.guru99.com/file-permissions.html)\
 [File attributes](https://www.tecmint.com/chattr-command-examples/)\
 [umask](https://www.cyberciti.biz/tips/understanding-linux-unix-umask-value-usage.html)\
+[special perms suid,sgid,sticky bits](https://www.thegeekdiary.com/linux-interview-questions-special-permissions-suid-sgid-and-sticky-bit/)\
 
 
 
-======
+
+--------
 fuser  -  https://www.tecmint.com/learn-how-to-use-fuser-command-with-examples-in-linux/
 strace - 
 significance of /etc/groups /etc/passwd /etc/shadow files.
