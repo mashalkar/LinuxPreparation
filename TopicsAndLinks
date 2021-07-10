@@ -49,7 +49,7 @@ nfs, iscsi || backups and restorations swap
 LINKS:
 [File permissions](https://www.guru99.com/file-permissions.html)
 [File attributes](https://www.tecmint.com/chattr-command-examples/)
-[umask]<a href=https://www.cyberciti.biz/tips/understanding-linux-unix-umask-value-usage.html </a>
+[umask]<a href=https://www.cyberciti.biz/tips/understanding-linux-unix-umask-value-usage.html>umask</a>
 
 
 
