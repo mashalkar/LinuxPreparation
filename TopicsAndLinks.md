@@ -12,17 +12,16 @@ Types of sheels, env_varibales, global variables, export command, profiles and b
 standard streams, redirections, regexs, scripting, config files, cron, anacron,
 
 
-===========
-3) Process:
-===========
-nice, renice, zombie, orphan, IPC's, system calls, process states, Exit code, kernel and user space, cache, buffer, Avg load, steal time,
+# 3) Process:
+
+### nice, renice, zombie, orphan, IPC's, system calls, process states, Exit code, kernel and user space, cache, buffer, Avg load, steal time,
 top, namespaces, cgroups
 -----
 LINKS:
 [Process priority - nice - renice](https://askubuntu.com/questions/656771/process-niceness-vs-priority)
 [Zombie, Orphan process](https://stackoverflow.com/questions/20688982/zombie-process-vs-orphan-process)
 [IPC basic](https://opensource.com/article/19/4/interprocess-communication-linux-storage) 
-           (https://opensource.com/article/19/4/interprocess-communication-linux-networking)
+[IPC basics2](https://opensource.com/article/19/4/interprocess-communication-linux-networking)
 [system calls vs interupts](https://pediaa.com/what-is-the-difference-between-system-call-and-interrupt/)
 [sockets](https://beej.us/guide/bgnet/html/#what-is-a-socket)
 [Best read for IPC](https://beej.us/guide/bgipc/html/single/bgipc.html)
