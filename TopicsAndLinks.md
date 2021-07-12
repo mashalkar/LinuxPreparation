@@ -12,9 +12,10 @@ Types of sheels, env_varibales, global variables, export command, profiles and b
 standard streams, redirections, regexs, scripting, config files, cron, anacron,
 
 ------------
-# 3) Process:
+# 3) Process: #
 
-### nice, renice, zombie, orphan, IPC's, system calls, process states, Exit code, kernel and user space, cache, buffer, Avg load, steal time, top, -namespaces, cgroups
+*nice, renice, zombie, orphan, IPC's, system calls, process states, Exit code, kernel and user space, cache, buffer, Avg load, steal time, top, -namespaces, cgroups*
+
 -----
 LINKS:\
 [Process priority - nice - renice](https://askubuntu.com/questions/656771/process-niceness-vs-priority)\
@@ -39,8 +40,8 @@ LINKS:\
 
 # 4) Files, filesystem, storage and permissions:
 
-### File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid, benchmarking tools, encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi,
-backups and restorations swap
+*File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid,  encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi,backups and restorations swap*
+
 ------
 LINKS:\
 [File permissions](https://www.guru99.com/file-permissions.html)\
@@ -52,9 +53,14 @@ LINKS:\
 [ext2,ext3,ext4](https://kerneltalks.com/disk-management/difference-between-ext2-ext3-and-ext4/)\
 [hard link](https://www.redhat.com/sysadmin/inodes-linux-filesystem)
 [hard link/soft link](https://techdifferences.com/difference-between-hard-link-and-soft-link.html)\
-[inodes](https://www.javatpoint.com/linux-inodes)
-
-
+[inodes](https://www.javatpoint.com/linux-inodes)\
+[Create partition using fdisk](https://www.tecmint.com/fdisk-commands-to-manage-linux-disk-partitions/)\
+[parted vs fdisk](https://unix.stackexchange.com/questions/104238/fdisk-vs-parted)\
+[LVM-redhat](https://www.redhat.com/sysadmin/lvm-vs-partitioning)\
+[LVM-thegeekdiary](https://www.thegeekdiary.com/redhat-centos-a-beginners-guide-to-lvm-logical-volume-manager/)\
+[RAID](https://www.wisdomjobs.com/e-university/raid-interview-questions.html)\
+[Encrypted partition](https://www.redhat.com/sysadmin/encrypt-single-filesystem)\
+[LUKS](https://www.redhat.com/sysadmin/disk-encryption-luks)\
 
 
 --------
@@ -62,3 +68,7 @@ fuser  -  https://www.tecmint.com/learn-how-to-use-fuser-command-with-examples-i
 strace - 
 significance of /etc/groups /etc/passwd /etc/shadow files.
 sudo, sudoer
+
+Networking: https://www.redhat.com/sysadmin/7-great-network-commands
+
+Performance: Benchmarking tools
