@@ -47,6 +47,12 @@ LINKS:\
 [File attributes](https://www.tecmint.com/chattr-command-examples/)\
 [umask](https://www.cyberciti.biz/tips/understanding-linux-unix-umask-value-usage.html)\
 [special perms suid,sgid,sticky bits](https://www.thegeekdiary.com/linux-interview-questions-special-permissions-suid-sgid-and-sticky-bit/)\
+[ACL's](https://www.geeksforgeeks.org/access-control-listsacl-linux/)\
+[ext/btrfs/xfs](https://www.howtogeek.com/howto/33552/htg-explains-which-linux-file-system-should-you-choose/)\
+[ext2,ext3,ext4](https://kerneltalks.com/disk-management/difference-between-ext2-ext3-and-ext4/)\
+[hard link](https://www.redhat.com/sysadmin/inodes-linux-filesystem)
+[hard link/soft link](https://techdifferences.com/difference-between-hard-link-and-soft-link.html)\
+[inodes](https://www.javatpoint.com/linux-inodes)
 
 
 
