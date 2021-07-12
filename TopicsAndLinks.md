@@ -1,14 +1,14 @@
-1) Basics:
-Legacy BIOS vs UEFI 
-Partition table:GPT vs MBR
-Boot Loaders: GRUB, GRUB2, LILO 
+# 1) Basics:
+*Legacy BIOS vs UEFI, Partition table:GPT vs MBR, Boot Loaders: GRUB, GRUB2, LILO 
 Booting process legacy vs uefi Initramfs, Intitramrd, vmlinuz runlevels, targets, sysvinit, systemd, process id 1, 
 Anaconda, kickstart, cfengine, 
 Boot troubelshooting, Installing grub, manual booting, 
 Updating Kernel, Kernel panics Package management, repositories.
 
-2) Shell:
-Types of sheels, env_varibales, global variables, export command, profiles and bashrc files,
+-----
+
+# 2) Shell:
+*Types of sheels, env_varibales, global variables, export command, profiles and bashrc files,
 standard streams, redirections, regexs, scripting, config files, cron, anacron,
 
 ------------
