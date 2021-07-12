@@ -12,8 +12,7 @@ Types of sheels, env_varibales, global variables, export command, profiles and b
 standard streams, redirections, regexs, scripting, config files, cron, anacron,
 
 ------------
-# 3) Process: #
-
+# 3) Process:
 *nice, renice, zombie, orphan, IPC's, system calls, process states, Exit code, kernel and user space, cache, buffer, Avg load, steal time, top, -namespaces, cgroups*
 
 -----
@@ -39,7 +38,6 @@ LINKS:\
 ----------------------------------------------------------------------------------------------------------------
 
 # 4) Files, filesystem, storage and permissions:
-
 *File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid,  encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi,backups and restorations swap*
 
 ------
@@ -61,6 +59,15 @@ LINKS:\
 [RAID](https://www.wisdomjobs.com/e-university/raid-interview-questions.html)\
 [Encrypted partition](https://www.redhat.com/sysadmin/encrypt-single-filesystem)\
 [LUKS](https://www.redhat.com/sysadmin/disk-encryption-luks)\
+[DRBD](https://www.tecmint.com/setup-drbd-storage-replication-on-centos-7/)\
+[fstab](https://www.linuxgurus.in/linux-etc-fstab-file/)\
+[df command](https://www.redhat.com/sysadmin/four-tips-df)\
+[du vs df](https://www.redhat.com/sysadmin/du-vs-df) [One more](https://unix.stackexchange.com/questions/41863/how-to-remember-the-difference-between-du-and-df)\
+[du](https://www.redhat.com/sysadmin/du-command-options)\
+[swap](https://www.thegeekdiary.com/the-ultimate-linux-interview-questions-swap/)\
+[swapiness](https://www.redhat.com/sysadmin/clear-swap-linux)\
+[/proc](https://www.redhat.com/sysadmin/linux-proc-filesystem)  [more /proc](https://www.redhat.com/sysadmin/important-proc-files)\
+
 
 
 --------
@@ -72,3 +79,7 @@ sudo, sudoer
 Networking: https://www.redhat.com/sysadmin/7-great-network-commands
 
 Performance: Benchmarking tools
+
+
+Interview questions:
+https://javarevisited.blogspot.com/2011/05/unix-command-interview-questions.html#axzz70Qbi7t7y
