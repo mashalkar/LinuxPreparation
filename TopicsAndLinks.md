@@ -7,10 +7,24 @@ Boot troubelshooting, Installing grub, manual booting,
 Updating Kernel, Kernel panics Package management, repositories.*
 
 -----
+LINKS:\
+[Legacy BIOS vs UEFI](https://fossbytes.com/uefi-bios-gpt-mbr-whats-difference/)\
+[MBR vs GPT partition table](https://www.mustbegeek.com/difference-between-mbr-and-gpt/)\
+[more](https://docs.google.com/document/d/1GJTPKkasOxuShUwi3VuJ_Wjpxf5WjLLfcxv5Xt9LWOs/edit)\
+[GRUB vs GRUB2](https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/)  
+[more](https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader)
+[more](https://www.codementor.io/@packt/grub-and-grub2-qevq1yree)\
+[Initrd and Initramfs](www.ngelinux.com/difference-between-initrd-and-initramfs-all-what-you-need-to-know/)\
+[Complete boot process](https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/)
 
+-----------
 # 2) Shell:
-*Types of sheels, env_varibales, global variables, export command, profiles and bashrc files,
-standard streams, redirections, regexs, scripting, config files, cron, anacron,*
+*Types of sheels, env_varibales, global variables, export command, profiles and bashrc files, standard streams, redirections, regexs, scripting, config files, cron, anacron,*
+
+-----
+LINKS:\
+[Differnt types shells](https://www.edureka.co/blog/types-of-shells-in-linux/)\
+[Special variables](https://www.tutorialspoint.com/unix/unix-special-variables.htm)
 
 ------------
 # 3) Process:
@@ -39,7 +53,7 @@ LINKS:\
 ----------------------------------------------------------------------------------------------------------------
 
 # 4) Files, filesystem, storage and permissions:
-*File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid,  encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi,backups and restorations swap*
+*File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid,  encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi, backups and restorations
 
 ------
 LINKS:\
@@ -68,10 +82,21 @@ LINKS:\
 [swap](https://www.thegeekdiary.com/the-ultimate-linux-interview-questions-swap/)\
 [swapiness](https://www.redhat.com/sysadmin/clear-swap-linux)\
 [/proc](https://www.redhat.com/sysadmin/linux-proc-filesystem)  [more /proc](https://www.redhat.com/sysadmin/important-proc-files)\
-
-
+[multipath](https://www.thegeekdiary.com/understanding-linux-multipath-using-dm-multipath/)\
+[device mapper](https://en.wikipedia.org/wiki/Device_mapper)
 
 --------
+
+# 5) Security:
+*Selinux, iptables, firewalld polkit, ACL's, SSL/TLS md5,sha, System hardening
+
+-----
+LINKS:
+
+
+------------
+
+
 fuser  -  https://www.tecmint.com/learn-how-to-use-fuser-command-with-examples-in-linux/
 strace - 
 significance of /etc/groups /etc/passwd /etc/shadow files.
