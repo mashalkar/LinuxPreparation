@@ -98,7 +98,33 @@ SELINUX [P1](https://www.digitalocean.com/community/tutorials/an-introduction-to
 [polkit]()
 
 ------------
+6) System admin tools/commands:
+* Find, locate, Grep, Awk, sed, cut,wc,sort tar,zip,bzip,gzip,zcat lsof, curl, wget dd,hexdump, nohup,screen, atime,mtime,ctime ssh, top, strace
 
+------
+7) System logging: 
+*Local logs, rsyslogs, remote logs, logratate, log-levels,
+
+------
+8) User managemnt:
+*user, group, password management, LDAP, AD, kerberos auth,
+
+-----
+9) Linux networking: 
+*Configuring nic, ip command, setting route/gateway, adding dns entries, hosts file, hostname, teaming, bonding, bond modes, bridges,
+
+----
+10) Servers: 
+*DNS, DHCP, HTTPD, Mysql, LoadBalancer,
+
+-----
+11) Performance issues: 
+*Disk, Process, Network, Web server, Memory,
+
+
+
+
+-----
 
 fuser  -  https://www.tecmint.com/learn-how-to-use-fuser-command-with-examples-in-linux/
 strace - 
