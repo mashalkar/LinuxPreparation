@@ -86,14 +86,19 @@ LINKS:\
 
 --------------
 # 5) Security:
-*Selinux, iptables, firewalld, polkit, ACL's, SSL/TLS md5,sha, System hardening*
+*Selinux, iptables, firewalld, polkit, ACL's, sudo, SSL/TLS, md5,sha, System hardening*
 
 -----
 LINKS:\
 SELINUX [P1](https://www.digitalocean.com/community/tutorials/an-introduction-to-selinux-on-centos-7-part-1-basic-concepts), [P2](https://www.digitalocean.com/community/tutorials/an-introduction-to-selinux-on-centos-7-part-2-files-and-processes), [P3](https://www.digitalocean.com/community/tutorials/an-introduction-to-selinux-on-centos-7-part-3-users)\
 [iptables](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/), [1](https://www.redhat.com/sysadmin/iptables), [2](https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture)\
 [firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8)\
-[polkit]()
+[polkit](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/desktop_migration_and_administration_guide/policykit)\
+[ACL's]-[Basic](https://www.geeksforgeeks.org/access-control-listsacl-linux/), [Detailed](https://www.tecmint.com/secure-files-using-acls-in-linux/)\
+[SSL,TLS](https://www.ssl2buy.com/wiki/ssl-vs-tls)\
+[Hardening](https://www.tecmint.com/linux-server-hardening-security-tips/)
+[md5,sha]()
+
 
 ------------
 # 6) System admin tools/commands:
