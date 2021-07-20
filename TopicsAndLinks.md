@@ -50,10 +50,9 @@ LINKS:\
 [steal time](https://scoutapm.com/blog/understanding-cpu-steal-time-when-should-you-be-worried)\
 [cgroups and namespaces](https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces)\
 
-----------------------------------------------------------------------------------------------------------------
-
+-----------------------------------------------
 # 4) Files, filesystem, storage and permissions:
-*File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid,  encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi, backups and restorations
+*File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid,  encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi, backups and restorations*
 
 ------
 LINKS:\
@@ -85,10 +84,9 @@ LINKS:\
 [multipath](https://www.thegeekdiary.com/understanding-linux-multipath-using-dm-multipath/)\
 [device mapper](https://en.wikipedia.org/wiki/Device_mapper)
 
---------
-
+--------------
 # 5) Security:
-*Selinux, iptables, firewalld, polkit, ACL's, SSL/TLS md5,sha, System hardening
+*Selinux, iptables, firewalld, polkit, ACL's, SSL/TLS md5,sha, System hardening*
 
 -----
 LINKS:\
@@ -99,26 +97,29 @@ SELINUX [P1](https://www.digitalocean.com/community/tutorials/an-introduction-to
 
 ------------
 # 6) System admin tools/commands:
-*Find, locate, Grep, Awk, sed, cut,wc,sort tar,zip,bzip,gzip,zcat lsof, curl, wget dd,hexdump, nohup,screen, atime,mtime,ctime ssh, top, strace
+*Find, locate, Grep, Awk, sed, cut,wc,sort tar,zip,bzip,gzip,zcat lsof, curl, wget dd,hexdump, nohup,screen, atime,mtime,ctime ssh, top, strace*
 
 ------
 # 7) System logging: 
-*Local logs, rsyslogs, remote logs, logratate, log-levels,
+*Local logs, rsyslogs, remote logs, logratate, log-levels,*
 
 ------
 # 8) User managemnt:
-*user, group, password management, LDAP, AD, kerberos auth,
+*user, group, password management, LDAP, AD, kerberos auth,*
 
 -----
 # 9) Linux networking: 
-*Configuring nic, ip command, setting route/gateway, adding dns entries, hosts file, hostname, teaming, bonding, bond modes, bridges,
+
+*Configuring nic, ip command, setting route/gateway, adding dns entries, hosts file, hostname, teaming, bonding, bond modes, bridges,*
 
 ----
 # 10) Servers: 
+
 *DNS, DHCP, HTTPD, Mysql, LoadBalancer,
 
 -----
 # 11) Performance issues: 
+
 *Disk, Process, Network, Web server, Memory,
 
 
