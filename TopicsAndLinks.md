@@ -102,13 +102,27 @@ SELINUX [P1](https://www.digitalocean.com/community/tutorials/an-introduction-to
 
 ------------
 # 6) System admin tools/commands:
-*Find, locate, grep, awk, sed, cut,wc,sort tar,zip,bzip,gzip,zcat lsof, curl, wget dd,hexdump, nohup,screen, atime,mtime,ctime ssh, top, strace*
+*Find, locate, grep, awk, sed, cut, wc, sort, tar, zip, bzip, gzip, zcat, lsof, curl, wget, dd, hexdump, nohup, screen, atime, mtime, ctime, ssh, top, strace*
 
 ----
-[Find 1](https://geekflare.com/linux-find-commands/) [2](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
-[locate](https://linuxize.com/post/locate-command-in-linux/)
-[grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) 
-[awk](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
+LINKS\
+|Links|Links
+----------------------
+[Find 1](https://geekflare.com/linux-find-commands/), [find 2](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)\
+[locate](https://linuxize.com/post/locate-command-in-linux/)\
+[grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)\ 
+[awk](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)\
+[sed 1](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/), [sed 2](https://www.geeksforgeeks.org/sed-command-linux-set-2/)\
+[cut](https://www.geeksforgeeks.org/cut-command-linux-examples/) , [wc](https://www.geeksforgeeks.org/wc-command-linux-examples/)\
+[sort](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/), [uniq](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/)\
+[gzip vs bzip2](https://tukaani.org/lzma/benchmarks.html)
+[tar, gzip](https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/)
+
+
+
+
+
+
 
 ------
 # 7) System logging: 
