@@ -96,13 +96,19 @@ SELINUX [P1](https://www.digitalocean.com/community/tutorials/an-introduction-to
 [polkit](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/desktop_migration_and_administration_guide/policykit)\
 [ACL's]-[Basic](https://www.geeksforgeeks.org/access-control-listsacl-linux/), [Detailed](https://www.tecmint.com/secure-files-using-acls-in-linux/)\
 [SSL,TLS](https://www.ssl2buy.com/wiki/ssl-vs-tls)\
-[Hardening](https://www.tecmint.com/linux-server-hardening-security-tips/)
+[Hardening](https://www.tecmint.com/linux-server-hardening-security-tips/)\
 [md5,sha]()
 
 
 ------------
 # 6) System admin tools/commands:
-*Find, locate, Grep, Awk, sed, cut,wc,sort tar,zip,bzip,gzip,zcat lsof, curl, wget dd,hexdump, nohup,screen, atime,mtime,ctime ssh, top, strace*
+*Find, locate, grep, awk, sed, cut,wc,sort tar,zip,bzip,gzip,zcat lsof, curl, wget dd,hexdump, nohup,screen, atime,mtime,ctime ssh, top, strace*
+
+----
+[Find 1](https://geekflare.com/linux-find-commands/) [2](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)
+[locate](https://linuxize.com/post/locate-command-in-linux/)
+[grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) 
+[awk](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
 
 ------
 # 7) System logging: 
