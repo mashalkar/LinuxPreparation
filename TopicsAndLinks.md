@@ -117,8 +117,9 @@ LINKS\
 [sort](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/), [uniq](https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/)\
 [gzip vs bzip2](https://tukaani.org/lzma/benchmarks.html)
 [tar, gzip](https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/)
-
-
+[zcat](https://www.howtoforge.com/linux-zcat-command/)\
+[lsof](https://geekflare.com/lsof-command-examples/) 
+[wget](https://geekflare.com/wget-command-examples/)
 
 
 
