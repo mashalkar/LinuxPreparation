@@ -118,12 +118,13 @@ LINKS\
 [gzip vs bzip2](https://tukaani.org/lzma/benchmarks.html)
 [tar, gzip](https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/)
 [zcat](https://www.howtoforge.com/linux-zcat-command/)\
-[lsof](https://geekflare.com/lsof-command-examples/) 
-[wget](https://geekflare.com/wget-command-examples/)
-
-
-
-
+[lsof](https://geekflare.com/lsof-command-examples/)\
+[wget](https://geekflare.com/wget-command-examples/)\
+[dd](https://linoxide.com/linux-dd-command-create-1gb-file/)\
+[hexdump](https://www.geeksforgeeks.org/hexdump-command-in-linux-with-examples/)\
+[nohup](https://www.geeksforgeeks.org/nohup-command-in-linux-with-examples/)\
+[screen vs nohup](https://unix.stackexchange.com/questions/24658/nohup-vs-screen)\
+[atime,ctime,mtime](https://www.howtogeek.com/517098/linux-file-timestamps-explained-atime-mtime-and-ctime/)
 
 ------
 # 7) System logging: 
