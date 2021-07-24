@@ -102,11 +102,11 @@ SELINUX [P1](https://www.digitalocean.com/community/tutorials/an-introduction-to
 
 ------------
 # 6) System admin tools/commands:
-*Find, locate, grep, awk, sed, cut, wc, sort, tar, zip, bzip, gzip, zcat, lsof, curl, wget, dd, hexdump, nohup, screen, atime, mtime, ctime, ssh, top, strace*
+*Find, locate, grep, awk, sed, cut, wc, sort, tar, zip, bzip, gzip, zcat, lsof, curl, wget, dd, hexdump, nohup, screen, atime, mtime, ctime, ssh, strace*
 
 ----
 LINKS\
-|Links|Links
+
 ----------------------
 [Find 1](https://geekflare.com/linux-find-commands/), [find 2](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)\
 [locate](https://linuxize.com/post/locate-command-in-linux/)\
@@ -125,6 +125,9 @@ LINKS\
 [nohup](https://www.geeksforgeeks.org/nohup-command-in-linux-with-examples/)\
 [screen vs nohup](https://unix.stackexchange.com/questions/24658/nohup-vs-screen)\
 [atime,ctime,mtime](https://www.howtogeek.com/517098/linux-file-timestamps-explained-atime-mtime-and-ctime/)
+[strace]
+[ssh](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux)
+
 
 ------
 # 7) System logging: 
