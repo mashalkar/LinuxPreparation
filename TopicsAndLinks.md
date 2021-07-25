@@ -168,7 +168,7 @@ LINKS:\
 *Disk, Process, Network, Web server, Memory,*
 LINKS:\
 [Trooubleshooting 101](https://www.redhat.com/sysadmin/troubleshooting-system-performance)\
-
+[Basic tools/commands](https://www.bogotobogo.com/DevOps/DevOps-Sys-Admin-Interview-Questions-Linux-Monitoring-System-Application-Performance-Tuning-Tools.php)
 
 
 
