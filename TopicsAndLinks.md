@@ -124,14 +124,29 @@ LINKS\
 [hexdump](https://www.geeksforgeeks.org/hexdump-command-in-linux-with-examples/)\
 [nohup](https://www.geeksforgeeks.org/nohup-command-in-linux-with-examples/)\
 [screen vs nohup](https://unix.stackexchange.com/questions/24658/nohup-vs-screen)\
-[atime,ctime,mtime](https://www.howtogeek.com/517098/linux-file-timestamps-explained-atime-mtime-and-ctime/)
-[strace 1](https://www.geeksforgeeks.org/strace-command-in-linux-with-examples/) [2](https://www.geeksforgeeks.org/strace-command-in-linux-with-examples/)
+[atime,ctime,mtime](https://www.howtogeek.com/517098/linux-file-timestamps-explained-atime-mtime-and-ctime/)\
+[strace 1](https://www.geeksforgeeks.org/strace-command-in-linux-with-examples/) [2](https://www.geeksforgeeks.org/strace-command-in-linux-with-examples/)\
 [ssh](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux)
 
 
 ------
 # 7) System logging: 
-*Local logs, rsyslogs, remote logs, logratate, log-levels,*
+*Local logs, rsyslogs, remote/central logs, logratate, log-levels, journalctl,*
+
+LINKS:\
+[Linux logging 1](https://www.plesk.com/blog/featured/linux-logs-explained/)   [2](https://mytrashcode.com/linux-logging-guide)\
+[syslog vs rsyslog vs syslog-ng](https://serverfault.com/questions/692309/what-is-the-difference-between-syslog-rsyslog-and-syslog-ng)\
+[remote/centralised logging](https://www.thegeekdiary.com/configuring-remote-logging-using-rsyslog-in-centos-rhel/) [One more](https://www.tecmint.com/install-rsyslog-centralized-logging-in-centos-ubuntu/)\
+[logrotate](https://www.redhat.com/sysadmin/setting-logrotate)\
+[log level](https://linuxconfig.org/introduction-to-the-linux-kernel-log-levels)\
+[journalctl](https://www.debugpoint.com/2020/12/systemd-journalctl/)\
+
+
+
+
+
+
+
 
 ------
 # 8) User managemnt:
