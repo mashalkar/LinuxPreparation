@@ -125,7 +125,7 @@ LINKS\
 [nohup](https://www.geeksforgeeks.org/nohup-command-in-linux-with-examples/)\
 [screen vs nohup](https://unix.stackexchange.com/questions/24658/nohup-vs-screen)\
 [atime,ctime,mtime](https://www.howtogeek.com/517098/linux-file-timestamps-explained-atime-mtime-and-ctime/)
-[strace]
+[strace 1](https://www.geeksforgeeks.org/strace-command-in-linux-with-examples/) [2](https://www.geeksforgeeks.org/strace-command-in-linux-with-examples/)
 [ssh](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux)
 
 
