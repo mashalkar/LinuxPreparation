@@ -163,9 +163,12 @@ LINKS:\
 *DNS, DHCP, HTTPD, Mysql, LoadBalancer,
 
 -----
-# 11) Performance issues: 
+# 11) Performance issues and troubleshooting
 
-*Disk, Process, Network, Web server, Memory,
+*Disk, Process, Network, Web server, Memory,*
+LINKS:\
+[Trooubleshooting 101](https://www.redhat.com/sysadmin/troubleshooting-system-performance)\
+
 
 
 
