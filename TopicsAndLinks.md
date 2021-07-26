@@ -23,14 +23,23 @@ LINKS:\
 [kernel upgrade manually](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/kernel_administration_guide/ch-manually_upgrading_the_kernel)\
 [booting issue](https://www.tecmint.com/find-and-fix-linux-boot-issues/)
 
+
 -----------
 # 2) Shell:
-*Types of sheels, env_varibales, global variables, export command, profiles and bashrc files, standard streams, redirections, regexs, scripting, config files, cron, anacron,*
+*Types of shells, env_varibales, global/local scope, export command, profiles and bashrc files, standard streams, redirections, regexs, scripting, config files, cron, anacron,*
 
 -----
 LINKS:\
+[shell, rc and profiles files, ](https://docs.google.com/document/d/1ZW2T2cFpxKz4YBpHALh-nLQHEmeRGsvNQcKuwIqg_XQ/edit?usp=sharing)\
+[shell redirections](https://docs.google.com/document/d/1Q_zigrVXB4wiuUGfzP1W6dxwZ3yZ7FrbCNf7VNd25yM/)
+[REGEX](https://docs.google.com/document/d/1_-NQtc0dj8vdOhLj-7dwJ99ip1I07Cxz0zoENCrJXtQ/edit?usp=sharing)
 [Differnt types shells](https://www.edureka.co/blog/types-of-shells-in-linux/)\
-[Special variables](https://www.tutorialspoint.com/unix/unix-special-variables.htm)
+[Special variables](https://www.tutorialspoint.com/unix/unix-special-variables.htm)\
+[Environment variables](https://www.geeksforgeeks.org/environment-variables-in-linux-unix/)\
+[bash scripting cheatsheet](https://docs.google.com/document/d/1gVn1Zpg0aCaW6825xnKbpFwNJ-eGd8U5njyL4SJxifM/edit?usp=sharing)\
+[shell config files](https://landoflinux.com/linux_bash_configuration_files.html)\
+[crontab](https://www.geeksforgeeks.org/crontab-in-linux-with-examples/)  [more](https://stackoverflow.com/questions/21789148/difference-between-cron-and-crontab)\
+[anacron](https://www.tecmint.com/cron-vs-anacron-schedule-jobs-using-anacron-on-linux/)  [more](https://opensource.com/article/21/2/linux-automation)\
 
 
 ------------
@@ -56,6 +65,7 @@ LINKS:\
 [Top command memory usage](https://unix.stackexchange.com/questions/289435/differences-and-relations-between-virt-and-used-in-output-of-top)\
 [steal time](https://scoutapm.com/blog/understanding-cpu-steal-time-when-should-you-be-worried)\
 [cgroups and namespaces](https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces)\
+
 
 -----------------------------------------------
 # 4) Files, filesystem, storage and permissions:
@@ -90,6 +100,7 @@ LINKS:\
 [/proc](https://www.redhat.com/sysadmin/linux-proc-filesystem)  [more /proc](https://www.redhat.com/sysadmin/important-proc-files)\
 [multipath](https://www.thegeekdiary.com/understanding-linux-multipath-using-dm-multipath/)\
 [device mapper](https://en.wikipedia.org/wiki/Device_mapper)
+
 
 --------------
 # 5) Security:
@@ -149,6 +160,7 @@ LINKS:\
 [log level](https://linuxconfig.org/introduction-to-the-linux-kernel-log-levels)\
 [journalctl](https://www.debugpoint.com/2020/12/systemd-journalctl/)\
 
+
 ------
 # 8) User managemnt:
 *user, group, password management, sudoer, LDAP, AD, kerberos auth,*
@@ -167,6 +179,7 @@ LINKS:\
 [LDAP](https://www.geeksforgeeks.org/lightweight-directory-access-protocol-ldap/)\
 [AD connection](https://www.redhat.com/sysadmin/linux-active-directory)
 
+
 -----
 # 9) Linux networking: 
 *Configuring nic, ip command, setting route/gateway, adding dns entries, hosts file, hostname, teaming, bonding, bond modes, bridges,*
@@ -180,8 +193,6 @@ LINKS:\
 ---
 LINKS:\
 [AD](https://www.geeksforgeeks.org/introduction-of-active-directory-domain-services/)\
-
-
 
 
 -----
