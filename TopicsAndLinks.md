@@ -58,7 +58,7 @@ LINKS:\
 LINKS:\
 [File permissions](https://www.guru99.com/file-permissions.html)\
 [File attributes](https://www.tecmint.com/chattr-command-examples/)\
-[umask](https://www.cyberciti.biz/tips/understanding-linux-unix-umask-value-usage.html)\
+[umask](https://www.cyberciti.biz/tips/understanding-linux-unix-umask-value-usage.html) [more](https://www.digitalocean.com/community/questions/what-is-umask-how-to-set-it-permanently-for-a-user)\
 [special perms suid,sgid,sticky bits](https://www.thegeekdiary.com/linux-interview-questions-special-permissions-suid-sgid-and-sticky-bit/)\
 [ACL's](https://www.geeksforgeeks.org/access-control-listsacl-linux/)\
 [ext/btrfs/xfs](https://www.howtogeek.com/howto/33552/htg-explains-which-linux-file-system-should-you-choose/)\
@@ -150,7 +150,15 @@ LINKS:\
 
 ------
 # 8) User managemnt:
-*user, group, password management, LDAP, AD, kerberos auth,*
+*user, group, password management, sudoer, LDAP, AD, kerberos auth,*
+
+LINK:\
+[useradd](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/)   [groupadd](https://linuxize.com/post/how-to-create-groups-in-linux/)\
+[chgrp](https://linuxize.com/post/chgrp-command-in-linux/)  [usermod](https://linuxize.com/post/usermod-command-in-linux/)\
+[passwd file](https://linuxize.com/post/etc-passwd-file/)   [passwd command](https://www.redhat.com/sysadmin/linux-user-account-management)\
+[sudoers](https://medium.com/kernel-space/linux-fundamentals-a-to-z-of-a-sudoers-file-a5da99a30e7f)\
+[restricting sudo](https://www.digitalocean.com/community/questions/mini-tutorial-restricting-sudo-users-to-only-a-handful-commands)\
+
 
 -----
 # 9) Linux networking: 
@@ -160,7 +168,12 @@ LINKS:\
 ----
 # 10) Servers: 
 
-*DNS, DHCP, HTTPD, Mysql, LoadBalancer,
+*DNS, DHCP, HTTPD, Mysql, LoadBalancer, AD, LDAP, *
+
+LINKS:\
+[AD](https://www.geeksforgeeks.org/introduction-of-active-directory-domain-services/)\
+
+
 
 -----
 # 11) Performance issues and troubleshooting
