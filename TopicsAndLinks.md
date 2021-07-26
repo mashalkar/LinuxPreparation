@@ -140,6 +140,7 @@ LINKS\
 # 7) System logging: 
 *Local logs, rsyslogs, remote/central logs, logratate, log-levels, journalctl,*
 
+---
 LINKS:\
 [Linux logging 1](https://www.plesk.com/blog/featured/linux-logs-explained/)   [2](https://mytrashcode.com/linux-logging-guide)\
 [syslog vs rsyslog vs syslog-ng](https://serverfault.com/questions/692309/what-is-the-difference-between-syslog-rsyslog-and-syslog-ng)\
@@ -151,7 +152,9 @@ LINKS:\
 ------
 # 8) User managemnt:
 *user, group, password management, sudoer, LDAP, AD, kerberos auth,*
-LINK:\
+
+---
+LINKS:\
 [useradd](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/)   [groupadd](https://linuxize.com/post/how-to-create-groups-in-linux/)\
 [chgrp](https://linuxize.com/post/chgrp-command-in-linux/)  [usermod](https://linuxize.com/post/usermod-command-in-linux/)\
 [passwd file](https://linuxize.com/post/etc-passwd-file/)   [passwd command](https://www.redhat.com/sysadmin/linux-user-account-management)\
@@ -166,14 +169,15 @@ LINK:\
 
 -----
 # 9) Linux networking: 
-
 *Configuring nic, ip command, setting route/gateway, adding dns entries, hosts file, hostname, teaming, bonding, bond modes, bridges,*
+
+---
 
 ----
 # 10) Servers: 
-
 *DNS, DHCP, HTTPD, Mysql, LoadBalancer, AD, LDAP, *
 
+---
 LINKS:\
 [AD](https://www.geeksforgeeks.org/introduction-of-active-directory-domain-services/)\
 
@@ -182,8 +186,9 @@ LINKS:\
 
 -----
 # 11) Performance issues and troubleshooting
+*Disk, Process, Network, Web server, Memory,*\
 
-*Disk, Process, Network, Web server, Memory,*
+---
 LINKS:\
 [Trooubleshooting 101](https://www.redhat.com/sysadmin/troubleshooting-system-performance)\
 [Basic tools/commands](https://www.bogotobogo.com/DevOps/DevOps-Sys-Admin-Interview-Questions-Linux-Monitoring-System-Application-Performance-Tuning-Tools.php)
