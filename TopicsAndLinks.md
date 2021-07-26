@@ -141,24 +141,21 @@ LINKS:\
 [log level](https://linuxconfig.org/introduction-to-the-linux-kernel-log-levels)\
 [journalctl](https://www.debugpoint.com/2020/12/systemd-journalctl/)\
 
-
-
-
-
-
-
-
 ------
 # 8) User managemnt:
 *user, group, password management, sudoer, LDAP, AD, kerberos auth,*
-
 LINK:\
 [useradd](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/)   [groupadd](https://linuxize.com/post/how-to-create-groups-in-linux/)\
 [chgrp](https://linuxize.com/post/chgrp-command-in-linux/)  [usermod](https://linuxize.com/post/usermod-command-in-linux/)\
 [passwd file](https://linuxize.com/post/etc-passwd-file/)   [passwd command](https://www.redhat.com/sysadmin/linux-user-account-management)\
+[getent](https://www.geeksforgeeks.org/getent-command-in-linux-with-examples/)\
 [sudoers](https://medium.com/kernel-space/linux-fundamentals-a-to-z-of-a-sudoers-file-a5da99a30e7f)\
 [restricting sudo](https://www.digitalocean.com/community/questions/mini-tutorial-restricting-sudo-users-to-only-a-handful-commands)\
-
+[authentication protocols](https://www.geeksforgeeks.org/types-of-authentication-protocols/)\
+[LDAP vs Kerb](https://www.geeksforgeeks.org/difference-between-ldap-and-kerberos/)\
+[Kerberos](https://www.geeksforgeeks.org/kerberos/)\
+[LDAP](https://www.geeksforgeeks.org/lightweight-directory-access-protocol-ldap/)\
+[AD connection](https://www.redhat.com/sysadmin/linux-active-directory)
 
 -----
 # 9) Linux networking: 
@@ -172,6 +169,7 @@ LINK:\
 
 LINKS:\
 [AD](https://www.geeksforgeeks.org/introduction-of-active-directory-domain-services/)\
+
 
 
 
@@ -196,6 +194,7 @@ sudo, sudoer
 Networking: https://www.redhat.com/sysadmin/7-great-network-commands
 
 Performance: Benchmarking tools
+
 
 
 Interview questions:
