@@ -190,8 +190,10 @@ LINKS:\
 
 
 
-
+ROUGH use
 -----
+
+
 
 fuser  -  https://www.tecmint.com/learn-how-to-use-fuser-command-with-examples-in-linux/
 strace - 
