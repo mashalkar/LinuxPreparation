@@ -110,7 +110,7 @@ LINKS\
 ----------------------
 [Find 1](https://geekflare.com/linux-find-commands/), [find 2](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)\
 [locate](https://linuxize.com/post/locate-command-in-linux/)\
-[grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)\ 
+[grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) \
 [awk](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)\
 [sed 1](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/), [sed 2](https://www.geeksforgeeks.org/sed-command-linux-set-2/)\
 [cut](https://www.geeksforgeeks.org/cut-command-linux-examples/) , [wc](https://www.geeksforgeeks.org/wc-command-linux-examples/)\
