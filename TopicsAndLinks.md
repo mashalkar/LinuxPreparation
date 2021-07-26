@@ -4,18 +4,24 @@
 Booting process legacy vs uefi Initramfs, Intitramrd, vmlinuz runlevels, targets, sysvinit, systemd, process id 1, 
 Anaconda, kickstart, cfengine, 
 Boot troubelshooting, Installing grub, manual booting, 
-Updating Kernel, Kernel panics Package management, repositories.*
+Updating Kernel, Kernel panics, Package management, repositories.*
 
 -----
 LINKS:\
 [Legacy BIOS vs UEFI](https://fossbytes.com/uefi-bios-gpt-mbr-whats-difference/)\
-[MBR vs GPT partition table](https://www.mustbegeek.com/difference-between-mbr-and-gpt/)\
+[MBR vs GPT partition table](https://www.mustbegeek.com/difference-between-mbr-and-gpt/)
 [more](https://docs.google.com/document/d/1GJTPKkasOxuShUwi3VuJ_Wjpxf5WjLLfcxv5Xt9LWOs/edit)\
-[GRUB vs GRUB2](https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/)  
+[GRUB vs GRUB2](https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/) 
 [more](https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader)
 [more](https://www.codementor.io/@packt/grub-and-grub2-qevq1yree)\
 [Initrd and Initramfs](www.ngelinux.com/difference-between-initrd-and-initramfs-all-what-you-need-to-know/)\
-[Complete boot process](https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/)
+[Complete boot process](https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/)\
+[Post bootup](https://www.tecmint.com/linux-boot-process-and-manage-services/)\
+[init vs systemd](https://www.tecmint.com/systemd-replaces-init-in-linux/)\
+[rt-kernel](https://www.redhat.com/sysadmin/real-time-kernel)\
+[kernel panic](https://www.redhat.com/sysadmin/linux-kernel-panic)\
+[kernel upgrade manually](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/kernel_administration_guide/ch-manually_upgrading_the_kernel)\
+[booting issue](https://www.tecmint.com/find-and-fix-linux-boot-issues/)
 
 -----------
 # 2) Shell:
@@ -25,6 +31,7 @@ LINKS:\
 LINKS:\
 [Differnt types shells](https://www.edureka.co/blog/types-of-shells-in-linux/)\
 [Special variables](https://www.tutorialspoint.com/unix/unix-special-variables.htm)
+
 
 ------------
 # 3) Process:
