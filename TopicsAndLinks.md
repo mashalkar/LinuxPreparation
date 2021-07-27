@@ -181,10 +181,16 @@ LINKS:\
 
 
 -----
-# 9) Linux networking: 
-*Configuring nic, ip command, setting route/gateway, adding dns entries, hosts file, hostname, teaming, bonding, bond modes, bridges,*
+# 9)Networking: 
+*Configuring nic, ip command, setting route/gateway, adding dns entries, hosts file, hostname, teaming, bonding, bond modes, bridges\
+OSI model, subnet calculation, TCP/UDP pros and cons, TCP handshake, TCP flags, MTU, MSS, tcp packet capture, Window size, sequence number, socket states, graceful/forceful diconnection, checksums, fragmentations\
+Routing - Dynamic, static. NAT, subnetting, ICMP, ARP, Broadcast, multicast, unicast, OSPF, BGP\
+Switching - VLAN, MAC table\
+Troubleshooting - Slow/No network, routing, TCP connection, tools like ping, traceroute, MTR, IPref, netstat, wireshark, etc.
 
 ---
+LINKS:\
+
 
 ----
 # 10) Servers: 
