@@ -13,6 +13,7 @@ LINKS:\
 [GRUB vs GRUB2](https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/) 
 [more](https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader)
 [more](https://www.codementor.io/@packt/grub-and-grub2-qevq1yree)\
+[updating grub](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-working_with_the_grub_2_boot_loader#sec-Customizing_the_GRUB_2_Configuration_File)\
 [Initrd and Initramfs](www.ngelinux.com/difference-between-initrd-and-initramfs-all-what-you-need-to-know/)\
 [Complete boot process](https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/)
 [more](https://www.technicalmint.com/linux/linux-boot-process-in-rhel7-rhel6/)\
