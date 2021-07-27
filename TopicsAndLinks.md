@@ -3,8 +3,8 @@
 *Legacy BIOS vs UEFI, Partition table:GPT vs MBR, Boot Loaders: GRUB, GRUB2, LILO 
 Booting process legacy vs uefi Initramfs, Intitramrd, vmlinuz runlevels, targets, sysvinit, systemd, process id 1, 
 Anaconda, kickstart, cfengine, 
-Boot troubelshooting, Installing grub, manual booting, 
-Updating Kernel, Kernel panics, Package management, repositories.*
+Boot troubelshooting, Installing grub, manual booting, RHEL 6vs7vs8,
+Updating Kernel, Kernel panics, Package management, repositories,*
 
 -----
 LINKS:\
@@ -21,8 +21,8 @@ LINKS:\
 [rt-kernel](https://www.redhat.com/sysadmin/real-time-kernel)\
 [kernel panic](https://www.redhat.com/sysadmin/linux-kernel-panic)\
 [kernel upgrade manually](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/kernel_administration_guide/ch-manually_upgrading_the_kernel)\
-[booting issue](https://www.tecmint.com/find-and-fix-linux-boot-issues/)
-
+[booting issue](https://www.tecmint.com/find-and-fix-linux-boot-issues/)\
+[RHEL 6vs7vs8](https://www.2daygeek.com/comparison-difference-between-rhel-8-vs-rhel-7-vs-rhel-6/)
 
 -----------
 # 2) Shell:
