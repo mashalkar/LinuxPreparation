@@ -9,8 +9,7 @@ Updating Kernel, Kernel panics, Package management, repositories,*
 -----
 LINKS:\
 [Legacy BIOS vs UEFI](https://fossbytes.com/uefi-bios-gpt-mbr-whats-difference/)\
-[MBR vs GPT partition table](https://www.mustbegeek.com/difference-between-mbr-and-gpt/)
-[more](https://docs.google.com/document/d/1GJTPKkasOxuShUwi3VuJ_Wjpxf5WjLLfcxv5Xt9LWOs/edit)\
+[MBR vs GPT partition table](https://www.mustbegeek.com/difference-between-mbr-and-gpt/)\
 [GRUB vs GRUB2](https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/) 
 [more](https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader)
 [more](https://www.codementor.io/@packt/grub-and-grub2-qevq1yree)\
