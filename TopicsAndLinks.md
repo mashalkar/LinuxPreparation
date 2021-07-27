@@ -15,7 +15,8 @@ LINKS:\
 [more](https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader)
 [more](https://www.codementor.io/@packt/grub-and-grub2-qevq1yree)\
 [Initrd and Initramfs](www.ngelinux.com/difference-between-initrd-and-initramfs-all-what-you-need-to-know/)\
-[Complete boot process](https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/)\
+[Complete boot process](https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/)
+[more](https://www.technicalmint.com/linux/linux-boot-process-in-rhel7-rhel6/)\
 [Post bootup](https://www.tecmint.com/linux-boot-process-and-manage-services/)\
 [init vs systemd](https://www.tecmint.com/systemd-replaces-init-in-linux/)\
 [rt-kernel](https://www.redhat.com/sysadmin/real-time-kernel)\
