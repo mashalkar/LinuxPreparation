@@ -66,7 +66,7 @@ LINKS:\
 [Top command memory usage](https://unix.stackexchange.com/questions/289435/differences-and-relations-between-virt-and-used-in-output-of-top)\
 [steal time](https://scoutapm.com/blog/understanding-cpu-steal-time-when-should-you-be-worried)\
 [cgroups and namespaces](https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces)\
-
+[swapiness](https://www.howtogeek.com/449691/what-is-swapiness-on-linux-and-how-to-change-it/)
 
 -----------------------------------------------
 # 4) Files, filesystem, storage and permissions:
