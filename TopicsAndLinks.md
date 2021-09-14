@@ -67,6 +67,7 @@ LINKS:\
 [steal time](https://scoutapm.com/blog/understanding-cpu-steal-time-when-should-you-be-worried)\
 [cgroups and namespaces](https://stackoverflow.com/questions/34820558/difference-between-cgroups-and-namespaces)\
 [swapiness](https://www.howtogeek.com/449691/what-is-swapiness-on-linux-and-how-to-change-it/)
+[paging vs swapping](https://www.geeksforgeeks.org/difference-between-paging-and-swapping-in-os/)
 
 -----------------------------------------------
 # 4) Files, filesystem, storage and permissions:
