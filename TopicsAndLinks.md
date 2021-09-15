@@ -207,6 +207,7 @@ LINKS:\
 -----
 # 11) Performance issues and troubleshooting
 *Disk, Process, Network, Web server, Memory,*\
+[What is laod average and how to interpret the values](https://www.howtogeek.com/194642/understanding-the-load-average-on-linux-and-other-unix-like-systems/)
 
 ---
 LINKS:\
