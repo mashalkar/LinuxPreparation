@@ -235,3 +235,5 @@ Performance: Benchmarking tools
 
 Interview questions:
 https://javarevisited.blogspot.com/2011/05/unix-command-interview-questions.html#axzz70Qbi7t7y
+
+[scenario based questoions](https://www.java67.com/2012/09/10-linux-and-unix-interview-questions-answers-wipro-tcs-capegemini.html)
