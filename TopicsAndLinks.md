@@ -130,6 +130,7 @@ LINKS\
 
 ----------------------
 [Find 1](https://geekflare.com/linux-find-commands/), [find 2](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)\
+[find empty file and delete](https://javarevisited.blogspot.com/2012/08/delete-empty-files-directories-unix.html#axzz799bJpWOX)\
 [locate](https://linuxize.com/post/locate-command-in-linux/)\
 [grep](https://www.geeksforgeeks.org/grep-command-in-unixlinux/) \
 [awk](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)\
