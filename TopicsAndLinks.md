@@ -103,7 +103,8 @@ LINKS:\
 [/proc](https://www.redhat.com/sysadmin/linux-proc-filesystem)  [more /proc](https://www.redhat.com/sysadmin/important-proc-files)\
 [multipath](https://www.thegeekdiary.com/understanding-linux-multipath-using-dm-multipath/)\
 [device mapper](https://en.wikipedia.org/wiki/Device_mapper)
-
+[File descriptor]
+[ulimit]
 
 --------------
 # 5) Security:
