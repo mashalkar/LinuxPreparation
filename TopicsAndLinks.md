@@ -1,54 +1,82 @@
-------------
-# 1) Basics:
-*Legacy BIOS vs UEFI, Partition table:GPT vs MBR, Boot Loaders: GRUB, GRUB2, LILO 
+# Topics and Links:
+
+1. **Basics**
+
+~~~md
+Legacy BIOS vs UEFI, Partition table:GPT vs MBR, Boot Loaders: GRUB, GRUB2, LILO 
 Booting process legacy vs uefi Initramfs, Intitramrd, vmlinuz runlevels, targets, sysvinit, systemd, process id 1, 
 Anaconda, kickstart, cfengine, 
 Boot troubelshooting, Installing grub, manual booting, RHEL 6vs7vs8,
 Updating Kernel, Kernel panics, Package management, repositories,*
+~~~
 
------
-LINKS:\
-[Legacy BIOS vs UEFI](https://fossbytes.com/uefi-bios-gpt-mbr-whats-difference/)\
-[MBR vs GPT partition table](https://www.mustbegeek.com/difference-between-mbr-and-gpt/)\
-[GRUB vs GRUB2](https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/) 
-[more](https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader)
-[more](https://www.codementor.io/@packt/grub-and-grub2-qevq1yree)\
-[updating grub](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-working_with_the_grub_2_boot_loader#sec-Customizing_the_GRUB_2_Configuration_File)\
-[Initrd and Initramfs](https://ngelinux.com/difference-between-initrd-and-initramfs-all-what-you-need-to-know/)\
+     LINKS:
+    
+[Legacy BIOS vs UEFI](https://fossbytes.com/uefi-bios-gpt-mbr-whats-difference/)
+
+[MBR vs GPT partition table](https://www.mustbegeek.com/difference-between-mbr-and-gpt/)
+
+[GRUB vs GRUB2](https://ngelinux.com/difference-between-grub-0-97legacy-grub-and-grub-2-in-linux/) & [more](https://linoxide.com/best-difference-between-linux-grub-and-grub2-bootloader) & [more](https://www.codementor.io/@packt/grub-and-grub2-qevq1yree)
+
+[updating grub](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-working_with_the_grub_2_boot_loader#sec-Customizing_the_GRUB_2_Configuration_File)
+
+[Initrd and Initramfs](https://ngelinux.com/difference-between-initrd-and-initramfs-all-what-you-need-to-know/)
+
 [Complete boot process](https://docs.google.com/document/d/1rAFF2fKD-o5NiO4NlOSeqkMTvJ_wwwTe9IwZCwX11Rc/)
-[more](https://www.technicalmint.com/linux/linux-boot-process-in-rhel7-rhel6/)\
-[Post bootup](https://www.tecmint.com/linux-boot-process-and-manage-services/)\
-[init vs systemd](https://www.tecmint.com/systemd-replaces-init-in-linux/)\
-[rt-kernel](https://www.redhat.com/sysadmin/real-time-kernel)\
-[kernel panic](https://www.redhat.com/sysadmin/linux-kernel-panic)\
-[kernel upgrade manually](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/kernel_administration_guide/ch-manually_upgrading_the_kernel)\
-[booting issue](https://www.tecmint.com/find-and-fix-linux-boot-issues/)\
+    [more](https://www.technicalmint.com/linux/linux-boot-process-in-rhel7-rhel6/)
+
+[Post bootup](https://www.tecmint.com/linux-boot-process-and-manage-services/)
+
+[init vs systemd](https://www.tecmint.com/systemd-replaces-init-in-linux/)
+
+[rt-kernel](https://www.redhat.com/sysadmin/real-time-kernel)
+
+[kernel panic](https://www.redhat.com/sysadmin/linux-kernel-panic)
+
+[kernel upgrade manually](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/kernel_administration_guide/ch-manually_upgrading_the_kernel)
+
+[booting issue](https://www.tecmint.com/find-and-fix-linux-boot-issues/)
+
 [RHEL 6vs7vs8](https://www.2daygeek.com/comparison-difference-between-rhel-8-vs-rhel-7-vs-rhel-6/)
 
------------
-# 2) Shell:
-*Types of shells, env_varibales, global/local scope, export command, profiles and bashrc files, standard streams, redirections, regexs, scripting, config files, cron, anacron,*
+---
 
------
-LINKS:\
-[shell, rc and profiles files, ](https://docs.google.com/document/d/1ZW2T2cFpxKz4YBpHALh-nLQHEmeRGsvNQcKuwIqg_XQ/edit?usp=sharing)\
+2. **Shell**
+
+~~~md
+Types of shells, env_varibales, global/local scope, export command, profiles and bashrc files, standard streams, redirections, regexs, scripting, config files, cron, anacron,*
+~~~
+
+LINKS:
+
+[shell, rc and profiles files, ](https://docs.google.com/document/d/1ZW2T2cFpxKz4YBpHALh-nLQHEmeRGsvNQcKuwIqg_XQ/edit?usp=sharing)
+
 [shell redirections](https://docs.google.com/document/d/1Q_zigrVXB4wiuUGfzP1W6dxwZ3yZ7FrbCNf7VNd25yM/)
+
 [REGEX](https://docs.google.com/document/d/1_-NQtc0dj8vdOhLj-7dwJ99ip1I07Cxz0zoENCrJXtQ/edit?usp=sharing)
-[Differnt types shells](https://www.edureka.co/blog/types-of-shells-in-linux/)\
-[Special variables](https://www.tutorialspoint.com/unix/unix-special-variables.htm)\
-[Environment variables](https://www.geeksforgeeks.org/environment-variables-in-linux-unix/)\
-[bash scripting cheatsheet](https://docs.google.com/document/d/1gVn1Zpg0aCaW6825xnKbpFwNJ-eGd8U5njyL4SJxifM/edit?usp=sharing)\
-[shell config files](https://landoflinux.com/linux_bash_configuration_files.html)\
-[crontab](https://www.geeksforgeeks.org/crontab-in-linux-with-examples/)  [more](https://stackoverflow.com/questions/21789148/difference-between-cron-and-crontab)\
-[anacron](https://www.tecmint.com/cron-vs-anacron-schedule-jobs-using-anacron-on-linux/)  [more](https://opensource.com/article/21/2/linux-automation)\
 
+[Differnt types shells](https://www.edureka.co/blog/types-of-shells-in-linux/)
 
-------------
-# 3) Process:
+[Special variables](https://www.tutorialspoint.com/unix/unix-special-variables.htm)
+
+[Environment variables](https://www.geeksforgeeks.org/environment-variables-in-linux-unix/)
+
+[bash scripting cheatsheet](https://docs.google.com/document/d/1gVn1Zpg0aCaW6825xnKbpFwNJ-eGd8U5njyL4SJxifM/edit?usp=sharing)
+
+[shell config files](https://landoflinux.com/linux_bash_configuration_files.html)
+
+[crontab](https://www.geeksforgeeks.org/crontab-in-linux-with-examples/)  & [more](https://stackoverflow.com/questions/21789148/difference-between-cron-and-crontab)
+
+[anacron](https://www.tecmint.com/cron-vs-anacron-schedule-jobs-using-anacron-on-linux/) & [more](https://opensource.com/article/21/2/linux-automation)
+
+---
+3.  **Process**
+
+~~~md
 *nice, renice, zombie, orphan, IPC's, system calls, process states, Exit code, kernel and user space, cache, buffer, Avg load, steal time, top, -namespaces, cgroups*
+~~~
+Links:
 
------
-LINKS:\
 [Process priority - nice - renice](https://askubuntu.com/questions/656771/process-niceness-vs-priority)\
 [Zombie, Orphan process](https://stackoverflow.com/questions/20688982/zombie-process-vs-orphan-process)\
 [IPC basic](https://opensource.com/article/19/4/interprocess-communication-linux-storage)\
@@ -70,12 +98,15 @@ LINKS:\
 [paging vs swapping](https://www.geeksforgeeks.org/difference-between-paging-and-swapping-in-os/)\
 [Changing swappiness value](https://linuxize.com/post/how-to-change-the-swappiness-value-in-linux/)
 
------------------------------------------------
-# 4) Files, filesystem, storage and permissions:
-*File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid,  encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi, backups and restorations*
+---
+4. **Files, filesystem, storage and permissions**
 
-------
-LINKS:\
+~~~md
+File permissions, attributes-chattr/lsattr, umask, special permissions, sticky bits, umask, ACL's, Xfs, ext2/3/4, btrfs, inodes, hard/soft links, fdisk, parted, lvm, raid,  encrypted filesystem, Luks, DRBD, fstab, df ,du,swap, /proc filesys, multipath, device mapper, dmsetup, nfs, iscsi, backups and restorations*
+~~~
+
+Links:
+
 [File permissions](https://www.guru99.com/file-permissions.html)\
 [File attributes](https://www.tecmint.com/chattr-command-examples/)\
 [umask](https://www.cyberciti.biz/tips/understanding-linux-unix-umask-value-usage.html) [more](https://www.digitalocean.com/community/questions/what-is-umask-how-to-set-it-permanently-for-a-user)\
@@ -106,12 +137,15 @@ LINKS:\
 [File descriptor]
 [ulimit]
 
---------------
-# 5) Security:
-*Selinux, iptables, firewalld, polkit, ACL's, sudo, SSL/TLS, md5,sha, System hardening*
+---
+5. **Security**
 
------
-LINKS:\
+~~~md
+Selinux, iptables, firewalld, polkit, ACL's, sudo, SSL/TLS, md5,sha, System hardening
+~~~
+
+Links:
+
 SELINUX [P1](https://www.digitalocean.com/community/tutorials/an-introduction-to-selinux-on-centos-7-part-1-basic-concepts), [P2](https://www.digitalocean.com/community/tutorials/an-introduction-to-selinux-on-centos-7-part-2-files-and-processes), [P3](https://www.digitalocean.com/community/tutorials/an-introduction-to-selinux-on-centos-7-part-3-users)\
 [iptables](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/), [1](https://www.redhat.com/sysadmin/iptables), [2](https://www.digitalocean.com/community/tutorials/a-deep-dive-into-iptables-and-netfilter-architecture)\
 [firewalld](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-8)\
@@ -121,15 +155,14 @@ SELINUX [P1](https://www.digitalocean.com/community/tutorials/an-introduction-to
 [Hardening](https://www.tecmint.com/linux-server-hardening-security-tips/)\
 [md5,sha]()
 
+---
+6. **System admin tools/commands**
 
-------------
-# 6) System admin tools/commands:
-*Find, locate, grep, awk, sed, cut, wc, sort, tar, zip, bzip, gzip, zcat, lsof, curl, wget, dd, hexdump, nohup, screen, atime, mtime, ctime, ssh, strace*
+~~~md
+Find, locate, grep, awk, sed, cut, wc, sort, tar, zip, bzip, gzip, zcat, lsof, curl, wget, dd, hexdump, nohup, screen, atime, mtime, ctime, ssh, strace*
+~~~
+Links:
 
-----
-LINKS\
-
-----------------------
 [Find 1](https://geekflare.com/linux-find-commands/), [find 2](https://linuxize.com/post/how-to-find-files-in-linux-using-the-command-line/)\
 [find empty file and delete](https://javarevisited.blogspot.com/2012/08/delete-empty-files-directories-unix.html#axzz799bJpWOX)\
 [find mtime perm examples](https://javarevisited.blogspot.com/2018/08/10-example-of-find-command-in-unix-linux.html#axzz799bJpWOX)
@@ -152,12 +185,12 @@ LINKS\
 [strace 1](https://www.geeksforgeeks.org/strace-command-in-linux-with-examples/) [2](https://www.geeksforgeeks.org/strace-command-in-linux-with-examples/)\
 [ssh](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux)
 
-
-------
-# 7) System logging: 
-*Local logs, rsyslogs, remote/central logs, logratate, log-levels, journalctl,*
-
 ---
+7. **System logging**
+
+~~~md
+*Local logs, rsyslogs, remote/central logs, logratate, log-levels, journalctl,*
+~~~
 LINKS:\
 [Linux logging 1](https://www.plesk.com/blog/featured/linux-logs-explained/)   [2](https://mytrashcode.com/linux-logging-guide)\
 [syslog vs rsyslog vs syslog-ng](https://serverfault.com/questions/692309/what-is-the-difference-between-syslog-rsyslog-and-syslog-ng)\
@@ -166,13 +199,15 @@ LINKS:\
 [log level](https://linuxconfig.org/introduction-to-the-linux-kernel-log-levels)\
 [journalctl](https://www.debugpoint.com/2020/12/systemd-journalctl/)\
 
-
-------
-# 8) User managemnt:
-*user, group, password management, sudoer, LDAP, AD, kerberos auth,*
-
 ---
-LINKS:\
+8. **User managemnt**
+
+~~~md
+*user, group, password management, sudoer, LDAP, AD, kerberos auth,*
+~~~
+
+Links:
+
 [useradd](https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/)   [groupadd](https://linuxize.com/post/how-to-create-groups-in-linux/)\
 [chgrp](https://linuxize.com/post/chgrp-command-in-linux/)  [usermod](https://linuxize.com/post/usermod-command-in-linux/)\
 [passwd file](https://linuxize.com/post/etc-passwd-file/)   [passwd command](https://www.redhat.com/sysadmin/linux-user-account-management)\
@@ -186,43 +221,44 @@ LINKS:\
 [AD connection](https://www.redhat.com/sysadmin/linux-active-directory)
 
 
------
-# 9)Networking: 
-*Configuring nic, ip command, setting route/gateway, adding dns entries, hosts file, hostname, teaming, bonding, bond modes, bridges\
+---
+9. **Networking**
+
+~~~
+Configuring nic, ip command, setting route/gateway, adding dns entries, hosts file, hostname, teaming, bonding, bond modes, bridges\
 OSI model, subnet calculation, TCP/UDP pros and cons, TCP handshake, TCP flags, MTU, MSS, tcp packet capture, Window size, sequence number, socket states, graceful/forceful diconnection, checksums, fragmentations\
 Routing - Dynamic, static. NAT, subnetting, ICMP, ARP, Broadcast, multicast, unicast, OSPF, BGP\
 Switching - VLAN, MAC table\
 Troubleshooting - Slow/No network, routing, TCP connection, tools like ping, traceroute, MTR, IPref, netstat, wireshark, etc.
+~~~
 
 ---
-LINKS:\
+10. **Servers** 
 
+~~~md
+DNS, DHCP, HTTPD, Mysql, LoadBalancer, AD, LDAP
+~~~
+Link:
 
-----
-# 10) Servers: 
-*DNS, DHCP, HTTPD, Mysql, LoadBalancer, AD, LDAP, *
+[AD](https://www.geeksforgeeks.org/introduction-of-active-directory-domain-services/)
 
 ---
-LINKS:\
-[AD](https://www.geeksforgeeks.org/introduction-of-active-directory-domain-services/)\
+11. **Performance issues and troubleshooting**
 
+~~~md
+Disk, Process, Network, Web server, Memory
+~~~
 
------
-# 11) Performance issues and troubleshooting
-*Disk, Process, Network, Web server, Memory,*\
 [What is laod average and how to interpret the values](https://www.howtogeek.com/194642/understanding-the-load-average-on-linux-and-other-unix-like-systems/)
 
----
+
 LINKS:\
 [Trooubleshooting 101](https://www.redhat.com/sysadmin/troubleshooting-system-performance)\
 [Basic tools/commands](https://www.bogotobogo.com/DevOps/DevOps-Sys-Admin-Interview-Questions-Linux-Monitoring-System-Application-Performance-Tuning-Tools.php)
 
-
+---
 
 ROUGH use
------
-
-
 
 fuser  -  https://www.tecmint.com/learn-how-to-use-fuser-command-with-examples-in-linux/
 strace - 
